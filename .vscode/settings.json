@@ -1,0 +1,20 @@
+{
+  "cmake.configureOnOpen": false,
+  "cmake.statusbar.advanced": {
+    "debug" : {
+      "visibility": "hidden"
+              },    
+    "launch" : {
+      "visibility": "hidden"
+               },
+    "build" : {
+      "visibility": "default"
+               },
+    "buildTarget" : {
+      "visibility": "hidden"
+               },
+     },
+     "cortex-debug.objdumpPath": "arm-none-eabi-objdump",
+    "cortex-debug.gdbPath": "gdb-multiarch",
+    "cortex-debug.variableUseNaturalFormat": false
+}
