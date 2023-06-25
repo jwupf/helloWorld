@@ -23,9 +23,9 @@ git submodule update --init
 Setup path to the SDK
 
 ```` bash
-vi ~/.profile
+vi ~/.bashrc
 # -> export PICO_SDK_PATH="$HOME/opt/pico-sdk"
-source ~/.profile
+source ~/.bashrc
 ````  
 
 Get GCC
